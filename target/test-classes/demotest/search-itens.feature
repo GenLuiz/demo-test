@@ -13,3 +13,6 @@ Feature: Search for t-shirts
 
     Scenario: Close browser
       Given I close the browser
+
+      Scenario: check activities available
+        Given Im able to access "activities"

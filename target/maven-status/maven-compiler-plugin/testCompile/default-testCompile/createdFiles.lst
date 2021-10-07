@@ -1,1 +1,5 @@
+demotest\BrowserFactory.class
+pages\AbstractPage.class
+pages\HomePage.class
+demotest\HomePageSteps.class
 demotest\RunCucumberTest.class

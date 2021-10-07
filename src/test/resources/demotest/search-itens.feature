@@ -15,6 +15,4 @@ Feature: Search for t-shirts
       Given I close the browser
 
       Scenario: check activities available
-        Given Im able to access activities
-        When I look into activities
-        Then I should get a success response
+        Given Im able to access "activities"
